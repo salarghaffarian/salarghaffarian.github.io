@@ -1,5 +1,5 @@
 # Salar Ghaffarian
-*Geospatial Data Scientist*
+**Geospatial Data Scientist**
 
 Email: salarghaffarian1363@gmail.com  
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salar-ghaffarian-9738a0a1/)
