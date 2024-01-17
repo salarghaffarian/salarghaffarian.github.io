@@ -59,8 +59,9 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salar-ghaffarian-9738a0
 - Building Deep Learning Models - Howsam
 
 ## Education
-| Degree                         | University                                 | GPA   | Year            |
-|--------------------------------|--------------------------------------------|-------|-----------------|
-| MSc in Geography               | University of Calgary (Canada)              | 3.825 | 2018 - 2021     |
-| MSc in Geomatics Engineering   | Hacettepe University (Turkey)               | 3.68  | 2012 - 2015     |
-| BSc in Civil Engineering       | Islamic Azad University (Iran)              | 3.68  | 2004 - 2009     |
+| Degree                         | University                                 | GPA   | Year          |
+| ------------------------------ | ------------------------------------------ | ----- | ------------- |
+| MSc in Geography               | University of Calgary (Canada)              | 3.825 | 2018 - 2021   |
+| MSc in Geomatics Engineering   | Hacettepe University (Turkey)               | 3.68  | 2012 - 2015   |
+| BSc in Civil Engineering       | Islamic Azad University (Iran)              | 3.68  | 2004 - 2009   |
+
