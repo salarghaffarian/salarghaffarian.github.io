@@ -2,7 +2,6 @@
 *Geospatial Data Scientist*
 
 Email: salarghaffarian1363@gmail.com  
-Phone: +1 (587) 572-4646  
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salar-ghaffarian-9738a0a1/)
 
 ## Summary and Qualifications
