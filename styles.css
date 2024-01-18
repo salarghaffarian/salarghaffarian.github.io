@@ -2,16 +2,15 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    margin: 20px;
-    background-color: #f5f5f5;
-    color: #333;
+    margin: 0; /* Remove default margin */
+    background: url('satellite_image.png') center/cover no-repeat; /* Use the satellite image as the background */
+    color: #fff; /* Set text color to white for better visibility */
 }
 
 header {
     text-align: center;
     padding: 20px;
-    background-color: #0066cc;
-    color: #fff;
+    background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent black overlay to enhance text visibility */
 }
 
 img {
