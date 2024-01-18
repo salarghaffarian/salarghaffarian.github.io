@@ -13,17 +13,17 @@ header {
     color: #fff;
 }
 
-img {
+header .profile-image {
     border-radius: 50%;
     max-width: 200px;
     height: auto;
     border: 4px solid #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease-in-out; /* Add transition for smooth color change */
+    transition: background-color 0.3s ease-in-out;
 }
 
-img:hover {
-    background-color: red; /* Change background color on hover */
+header .profile-image:hover {
+    background-color: red;
 }
 
 section {
