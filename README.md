@@ -25,7 +25,7 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salar-ghaffarian-9738a0
 
 ## Work Experience
 
-### Geospatial ML/DL Developer - MyHEAT Inc. (2021 – 2023)
+### Geospatial ML/DL Developer - MyHEAT Inc. (2021 – present)
 - Developed a QGIS plugin for semi-automatic labeling of vegetated areas on building rooftops.
 - Automated project quality checks using Geopandas and Seaborn.
 - Built a semantic segmentation model to extract building footprints from thermal images.
