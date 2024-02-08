@@ -10,7 +10,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background: url('building_detection_aerial_imagery.png') center/cover no-repeat;
+    background: url('link_world') center/cover no-repeat;
     color: #fff;
     filter: grayscale(30%);
 }
